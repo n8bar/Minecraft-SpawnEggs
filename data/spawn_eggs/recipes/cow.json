@@ -7,14 +7,14 @@
 	],
 	"key": {
 		"1": {
-			"item": "minecraft:rotten_flesh"
+			"item": "minecraft:leather"
 		},
 		"2": {
-			"item": "minecraft:golden_sword"
+			"item": "minecraft:egg"
 		}
 	},
 	"result": {
-		"item": "minecraft:zombie_pigman_spawn_egg",
+		"item": "minecraft:cow_spawn_egg",
 		"count": 1
 	}
 }

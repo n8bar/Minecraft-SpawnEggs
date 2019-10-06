@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:horse_spawn_egg"
+		},
+		{
+			"item": "minecraft:donkey_spawn_egg"
+		}
+	],
+	"result": {
+		"item": "minecraft:mule_spawn_egg",
+		"count": 2
+	}
+}

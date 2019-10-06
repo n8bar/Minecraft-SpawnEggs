@@ -7,14 +7,14 @@
 	],
 	"key": {
 		"1": {
-			"item": "minecraft:rotten_flesh"
+			"item": "minecraft:ghast_tear"
 		},
 		"2": {
-			"item": "minecraft:water_bucket"
+			"item": "minecraft:egg"
 		}
 	},
 	"result": {
-		"item": "minecraft:drowned_spawn_egg",
+		"item": "minecraft:ghast_spawn_egg",
 		"count": 1
 	}
 }

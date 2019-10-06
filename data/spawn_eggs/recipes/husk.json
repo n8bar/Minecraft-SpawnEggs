@@ -10,11 +10,11 @@
 			"item": "minecraft:rotten_flesh"
 		},
 		"2": {
-			"item": "minecraft:water_bucket"
+			"item": "minecraft:sand"
 		}
 	},
 	"result": {
-		"item": "minecraft:drowned_spawn_egg",
+		"item": "minecraft:husk_spawn_egg",
 		"count": 1
 	}
 }

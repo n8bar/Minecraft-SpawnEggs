@@ -7,14 +7,14 @@
 	],
 	"key": {
 		"1": {
-			"item": "minecraft:rotten_flesh"
+			"item": "minecraft:white_carpet"
 		},
 		"2": {
-			"item": "minecraft:water_bucket"
+			"item": "minecraft:egg"
 		}
 	},
 	"result": {
-		"item": "minecraft:drowned_spawn_egg",
+		"item": "minecraft:llama_spawn_egg",
 		"count": 1
 	}
 }

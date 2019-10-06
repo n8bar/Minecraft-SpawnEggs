@@ -7,14 +7,14 @@
 	],
 	"key": {
 		"1": {
-			"item": "minecraft:coal"
+			"item": "minecraft:iron_bars"
 		},
 		"2": {
-			"item": "minecraft:egg"
+			"item": "minecraft:gold_block"
 		}
 	},
 	"result": {
-		"item": "minecraft:bat_spawn_egg",
+		"item": "minecraft:spawner",
 		"count": 1
 	}
 }

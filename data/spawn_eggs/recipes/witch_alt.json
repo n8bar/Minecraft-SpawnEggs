@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shaped",
+	"pattern": [
+		"313",
+		"121",
+		"313"
+	],
+	"key": {
+		"1": {
+			"item": "minecraft:glowstone_dust"
+		},
+		"2": {
+			"item": "minecraft:egg"
+		},
+		"3": {
+			"item": "minecraft:redstone"
+		}
+	},
+	"result": {
+		"item": "minecraft:witch_spawn_egg",
+		"count": 1
+	}
+}

@@ -1,0 +1,20 @@
+{
+    "type": "crafting_shaped",
+	"pattern": [
+		"111",
+		"121",
+		"111"
+	],
+	"key": {
+		"1": {
+			"item": "minecraft:salmon"
+		},
+		"2": {
+			"item": "minecraft:egg"
+		}
+	},
+	"result": {
+		"item": "minecraft:salmon_spawn_egg",
+		"count": 1
+	}
+}

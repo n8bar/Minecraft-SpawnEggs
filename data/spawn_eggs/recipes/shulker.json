@@ -1,0 +1,20 @@
+{
+    "type": "crafting_shaped",
+	"pattern": [
+		"111",
+		"121",
+		"111"
+	],
+	"key": {
+		"1": {
+			"item": "minecraft:chorus_fruit"
+		},
+		"2": {
+			"item": "minecraft:fire_charge"
+		}
+	},
+	"result": {
+		"item": "minecraft:shulker_spawn_egg",
+		"count": 1
+	}
+}

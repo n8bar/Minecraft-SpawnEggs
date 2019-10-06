@@ -1,0 +1,20 @@
+{
+    "type": "crafting_shaped",
+	"pattern": [
+		"111",
+		"121",
+		"111"
+	],
+	"key": {
+		"1": {
+			"item": "minecraft:rotten_flesh"
+		},
+		"2": {
+			"item": "minecraft:emerald"
+		}
+	},
+	"result": {
+		"item": "minecraft:zombie_villager_spawn_egg",
+		"count": 1
+	}
+}

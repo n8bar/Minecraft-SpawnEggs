@@ -1,4 +1,6 @@
 {
-	"pack": 1,
-	"description": "Spawn Eggs"
+	"pack": {
+		"pack_format": 1,
+		"description": "Spawn Eggs"
+	}
 }

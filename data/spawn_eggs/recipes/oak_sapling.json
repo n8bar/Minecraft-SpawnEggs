@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:bone_meal"
+		},
+		{
+			"item": "minecraft:grass_block"
+		}
+	],
+	"result": {
+		"item": "minecraft:oak_sapling",
+		"count": 1
+	}
+}

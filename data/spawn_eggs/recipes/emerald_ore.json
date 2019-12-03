@@ -1,36 +1,9 @@
 {
-    "type": "crafting_shapeless",
-	"ingredients": [
-		{
-			"item": "minecraft:green_dye"
-		},
-		{
-			"item": "minecraft:stone"
-		},
-		{
-			"item": "minecraft:stone"
-		},
-		{
-			"item": "minecraft:stone"
-		},
-		{
-			"item": "minecraft:stone"
-		},
-		{
-			"item": "minecraft:stone"
-		},
-		{
-			"item": "minecraft:stone"
-		},
-		{
-			"item": "minecraft:stone"
-		},
-		{
-			"item": "minecraft:stone"
-		}
-	],
-	"result": {
-		"item": "minecraft:emerald_ore",
-		"count": 1
-	}
+    "type": "smelting",
+    "ingredient": {
+        "item": "minecraft:green_stained_glass"
+    },
+    "result": "minecraft:emerald_ore",
+    "experience": 100,
+    "cookingtime": 600
 }

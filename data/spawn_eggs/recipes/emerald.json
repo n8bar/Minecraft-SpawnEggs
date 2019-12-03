@@ -1,0 +1,18 @@
+{
+    "type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:green_dye"
+		},
+		{
+			"item": "minecraft:diamond"
+		},
+		{
+			"item": "minecraft:lapis_lazuli"
+		}
+	],
+	"result": {
+		"item": "minecraft:emerald",
+		"count": 2
+	}
+}

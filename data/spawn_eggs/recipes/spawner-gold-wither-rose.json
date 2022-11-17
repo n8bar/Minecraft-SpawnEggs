@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shaped",
+	"pattern": [
+		"121",
+		"232",
+		"121"
+	],
+	"key": {
+		"1": {
+			"item": "minecraft:iron_bars"
+		},
+		"2": {
+			"item": "minecraft:gold_block"
+		},
+		"3": {
+			"item": "minecraft:wither_rose"
+		}
+	},
+	"result": {
+		"item": "minecraft:spawner",
+		"count": 1
+	}
+}

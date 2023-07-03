@@ -1,0 +1,33 @@
+{
+    "type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:netherite_scrap"
+		},
+		{
+			"item": "minecraft:netherite_scrap"
+		},
+		{
+			"item": "minecraft:netherite_scrap"
+		},
+		{
+			"item": "minecraft:netherite_scrap"
+		},
+		{
+			"item": "minecraft:gold_block"
+		},
+		{
+			"item": "minecraft:gold_block"
+		},
+		{
+			"item": "minecraft:gold_block"
+		},
+		{
+			"item": "minecraft:gold_block"
+		}
+	],
+	"result": {
+		"item": "minecraft:netherite_block",
+		"count": 2
+	}
+}

@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": "minecraft:crafting_table",
+    "result": {
+        "id": "minecraft:charcoal"
+    },
+    "experience": 100,
+}

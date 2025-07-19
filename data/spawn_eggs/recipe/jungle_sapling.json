@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        [
+            "minecraft:orange_dye"
+        ],
+        [
+            "minecraft:acacia_sapling",
+            "minecraft:birch_sapling",
+            "minecraft:cherry_sapling",
+			"minecraft:dark_oak_sapling",
+            "minecraft:oak_sapling",
+            "minecraft:pale_oak_sapling",
+            "minecraft:spruce_sapling"
+        ]
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:jungle_sapling"
+    }
+}
